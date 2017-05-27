@@ -14,7 +14,7 @@
 
 ![myimage](https://preview.ibb.co/jEt7sa/3.png)
 
-8- Enter www.spamdecoy.net and login with username:admin_contest_05
+8- Enter www.spamdecoy.net and login with username : admin_contest_05
 
 ![myimage](https://preview.ibb.co/kZWcsa/1.png)
 
