@@ -16,7 +16,7 @@
 
 8- Enter www.spamdecoy.net and login with username : admin_contest_05
 
-![myimage](https://github.com/Rachid-Oubaoug/Images/raw/master/2.jpg)
+![myimage](https://github.com/Rachid-Oubaoug/Images/raw/master/2.png)
 
 9- The file "PASSCODE" contain your flag : check_your_db_before_building_app
 
