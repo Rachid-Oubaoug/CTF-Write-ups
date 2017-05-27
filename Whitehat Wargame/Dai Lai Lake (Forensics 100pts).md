@@ -6,11 +6,13 @@
 
 4- unzip passcode-apk.zip
 
-5- cd assets
+5- cd assets/
 
 6- open the database file passcode.sqlite 
 
-7- you will find 2 tables, read the content of "zadminz" table
+7- you will find 2 tables, read the content of "zadminz" 
+
+![myimage](https://preview.ibb.co/jEt7sa/3.png)
 
 8- the email "admin_contest_05@spamdecoy.net" is your key to the flag
 
@@ -19,3 +21,5 @@
 ![myimage](https://preview.ibb.co/kZWcsa/1.png)
 
 10- the file "PASSCODE" contain your flag : check_your_db_before_building_app
+
+![myimage] (https://preview.ibb.co/kV7BJF/2.png)
