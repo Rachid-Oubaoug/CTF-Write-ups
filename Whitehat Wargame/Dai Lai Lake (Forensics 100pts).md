@@ -12,12 +12,12 @@
 
 7- You will find 2 tables, read the content of "zadminz" 
 
-![myimage](https://preview.ibb.co/jEt7sa/3.png)
+![myimage](https://raw.githubusercontent.com/Rachid-Oubaoug/Images/master/1.png)
 
 8- Enter www.spamdecoy.net and login with username : admin_contest_05
 
-![myimage](https://preview.ibb.co/kZWcsa/1.png)
+![myimage](https://github.com/Rachid-Oubaoug/Images/raw/master/2.png)
 
 9- The file "PASSCODE" contain your flag : check_your_db_before_building_app
 
-![myimage](https://preview.ibb.co/kV7BJF/2.png)
+![myimage](https://raw.githubusercontent.com/Rachid-Oubaoug/Images/master/3.png)
