@@ -14,7 +14,7 @@
 
 ![myimage](https://raw.githubusercontent.com/Rachid-Oubaoug/Images/master/1.png)
 
-8- Enter www.spamdecoy.net and login with username : admin_contest_05
+8- Enter www.spamdecoy.net and login with email address : admin_contest_05
 
 ![myimage](https://github.com/Rachid-Oubaoug/Images/raw/master/2.png)
 
